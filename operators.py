@@ -17,6 +17,8 @@ print(a%b)
 #but we cant subrract and divide STRINGS in python
 
 c = "i am nishant"
-d = "pardeshi"
-print(c+d)
+d = " pardeshi"
+print(c+""+d)
 print("hi"*10)
+
+
