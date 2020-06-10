@@ -7,6 +7,10 @@
 students={ "Nishant":21,"Sumit":20,"Amit":27 }
 print(students["Nishant"])
 
+#we also access only key or value of a dictionary as shown below
+print(students.keys())
+print(students.values())
+
 #we can update the dictionary to
 students["Nishant"]=22
 print(students["Nishant"])
