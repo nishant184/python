@@ -1,5 +1,5 @@
 #there are two types of placeholders in python
-#1. %s is usede for strings
+#1. %s is used for strings
 #2. %d is used for intergers
 
 #suppose you want to give a name of your choice everytime for e.g

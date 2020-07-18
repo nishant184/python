@@ -5,7 +5,7 @@ in python we dont have initalize a variable as a data type this is one
 of the advantage of python  
 
 """
-#assignment refers to store a value in a variable for eg. guve below
+#assignment refers to store a value in a variable for eg. given below
 a=10
 print(a)
 
